@@ -7,5 +7,5 @@ a module focused on visual/fun hooks. no unfair advantages, no disruptive featur
 
 # Usage
 Inject the gmod_internal.dll into the gmod.exe process (must be x64). Example injector: https://github.com/eggooooo/dll_injector <br>
-Press F11 to open up the config menu
+Press F11 to open up the config menu <br>
 Configs will be saved relative to the gmod.exe <br>
